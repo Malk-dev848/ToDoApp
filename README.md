@@ -36,7 +36,6 @@ A clean and functional To-Do List app built with Flutter. Users can manage their
 ### 📷 Image Handling
 
 * Used `image_picker` to allow image selection from both gallery and camera.
-* Stored image paths are loaded using `FileImage`.
 
 ### 🔍 Filtering & Search
 
@@ -71,7 +70,6 @@ A clean and functional To-Do List app built with Flutter. Users can manage their
 | `hive`          | Local data persistence            |
 | `hive_flutter`  | Flutter integration for Hive      |
 | `image_picker`  | Select images from gallery/camera |
-| `path_provider` | File system paths (optional use)  |
 
 ---
 
